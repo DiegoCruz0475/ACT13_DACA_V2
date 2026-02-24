@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'pagina2.dart'; // Import para navegar a Renta
-import 'pagina3.dart'; // Import para navegar a Venta
+import 'renta.dart'; // Import para navegar a Renta
+import 'venta.dart'; // Import para navegar a Venta
 
 // Colores globales para mantener consistencia
 const Color azulPrimario = Color(0xFF0D47A1);
