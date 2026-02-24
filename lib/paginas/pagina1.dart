@@ -41,7 +41,7 @@ class InicioPage extends StatelessWidget {
               const Center(
                 child: Column(
                   children: [
-                    Text("Yeyo Dwellings", style: TextStyle(color: azulPrimario, fontWeight: FontWeight.bold, fontSize: 20)),
+                    Text("Yeyo Dwellings (Diego Alberto Cruz Acotsa 6ºJ)", style: TextStyle(color: azulPrimario, fontWeight: FontWeight.bold, fontSize: 20)),
                     SizedBox(height: 20),
                     ClipRRect(
                       borderRadius: BorderRadius.all(Radius.circular(20)),
